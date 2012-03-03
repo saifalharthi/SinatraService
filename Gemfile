@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+gem "rack"
+gem "rspec", :require => "spec"
+gem "sinatra"
+gem "data_mapper"
